@@ -4,12 +4,16 @@ This is the learning course for nativeScript
 
 # Command line
 
-tns doctor : Check if the local enviroment can use nativeScript 
-tns create : Create a new nativeScript application
-tns run <platform>:
+`tns doctor` : Check if the local enviroment can use nativeScript 
+
+`tns create` : Create a new nativeScript application
+
+`tns run <platform>` :
     ios : run the app on ios emulator device
     android : run the app on android emulator device
-tns prepare <platform> : build the app
+
+`tns prepare <platform>` : build the app
+
 
 # Useful Resources:
 
